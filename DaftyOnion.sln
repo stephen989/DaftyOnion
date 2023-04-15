@@ -11,6 +11,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Infrastructure", "..\Infras
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Domain", "..\Domain\Domain.pyproj", "{32B97D97-424E-4CA8-8FFD-87649101CC02}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Definitions", "..\Definitions\Definitions.pyproj", "{AEAE0F71-3F25-4E79-8669-309330E1B6E1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Host", "..\Host\Host.pyproj", "{5DD152A2-22A2-40E9-A1EA-E891827ED2AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{92C3C9FA-E6B6-4A15-B6D6-767DAF046274}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32B97D97-424E-4CA8-8FFD-87649101CC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{32B97D97-424E-4CA8-8FFD-87649101CC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEAE0F71-3F25-4E79-8669-309330E1B6E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEAE0F71-3F25-4E79-8669-309330E1B6E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DD152A2-22A2-40E9-A1EA-E891827ED2AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DD152A2-22A2-40E9-A1EA-E891827ED2AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
